@@ -6,8 +6,11 @@ Plannify is a comprehensive Android application designed to be your ultimate com
 **_Key Features:_**
 
 **Login Authentication:** Securely log in to access personalised features and save your date preferences.
+
 **Date Recommendations:** Explore a curated list of date ideas ranging from cozy cafes and romantic restaurants to scenic viewpoints, captivating theatres, and serene parks. Find the perfect spot for any occasion or mood.
+
 **Cost Estimation:** Plan your date budget with ease by adding cute items to your itinerary and getting an estimated total cost. Stay within your budget while impressing your partner with thoughtful touches.
+
 **Memory Lane:** Capture and preserve your special moments with the image selection feature. Create a gallery of memories by adding images and writing stories to relive the magic of your dates anytime, anywhere.
 
 
